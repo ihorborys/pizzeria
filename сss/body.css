@@ -1,0 +1,8 @@
+body {
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-family: 'Montserrat';
+    font-weight: 400;
+    background: url("../assets/img/bg.png") center/cover no-repeat fixed; 
+    min-height: 100%;
+    color: white;  
+}

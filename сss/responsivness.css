@@ -1,0 +1,19 @@
+@media (max-width: 387px) {
+    .logo img {
+        max-width: 8.25rem;
+        max-height: 8.25rem;
+        border-radius: 50%;
+    }
+}
+
+@media (max-width: 640px) and (max-height: 630px) {
+    .logo {
+        display: none;
+        }
+}
+
+@media (max-width: 844px) and (max-height: 390px) {
+    .logo {
+        display: none;
+        }
+}
