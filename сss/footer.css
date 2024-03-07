@@ -67,15 +67,24 @@ footer {
 
 .footer-license-social {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+    /* justify-content: space-between; */
     flex-wrap: wrap;
     margin: 1rem;
 }
 
 .license-footer {
+    margin: 0.5rem;
 }
 
 .social-footer {
+    margin: 0.5rem;
+}
+
+.social-footer a {
+    margin: 0.2rem;
 }
 
 .social-footer img {
